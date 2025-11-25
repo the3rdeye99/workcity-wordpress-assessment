@@ -1,0 +1,147 @@
+# ====================================
+# WORDPRESS CORE - DO NOT COMMIT
+# ====================================
+/wp-admin/
+/wp-includes/
+wp-settings.php
+wp-blog-header.php
+wp-load.php
+wp-login.php
+wp-activate.php
+wp-mail.php
+index.php
+license.txt
+readme.html
+wp-config.php
+.htaccess
+
+# ====================================
+# THIRD-PARTY PLUGINS - DO NOT COMMIT
+# ====================================
+plugins/akismet/
+plugins/hello.php
+plugins/jetpack/
+plugins/woocommerce/
+plugins/elementor/
+plugins/elementor-pro/
+plugins/wpbakery/
+plugins/yoast-seo/
+plugins/wordfence/
+plugins/wp-super-cache/
+plugins/imagify/
+plugins/contact-form-7/
+plugins/astra-sites/
+plugins/sureforms/
+plugins/surerank/
+plugins/suretriggers/
+plugins/ultimate-addons-for-gutenberg/
+
+# ====================================
+# THIRD-PARTY THEMES - DO NOT COMMIT
+# ====================================
+themes/twentytwentythree/
+themes/twentytwentyfour/
+themes/twentytwentyfive/
+themes/astra/
+
+# ====================================
+# UPLOADS & MEDIA - DO NOT COMMIT
+# ====================================
+uploads/
+uploads-backup/
+/wp-content/cache/
+/wp-content/backup-*
+
+# ====================================
+# UPGRADE DIRECTORY - DO NOT COMMIT
+# ====================================
+upgrade/
+
+# ====================================
+# LOGS - DO NOT COMMIT
+# ====================================
+*.log
+debug.log
+error.log
+error_log
+access.log
+
+# ====================================
+# ENVIRONMENT & SENSITIVE FILES
+# ====================================
+.env
+.env.local
+.env.*.local
+wp-config-local.php
+config.local.php
+local-config.php
+
+# ====================================
+# OS & IDE FILES
+# ====================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.windows-thumbnail.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ====================================
+# BUILD & DEPENDENCIES
+# ====================================
+node_modules/
+vendor/
+dist/
+build/
+package-lock.json
+yarn.lock
+composer.lock
+.npm
+
+# ====================================
+# TEMPORARY & BACKUP FILES
+# ====================================
+*.tmp
+*.temp
+*.bak
+*.backup
+~*
+
+# ====================================
+# DATABASE FILES - DO NOT COMMIT
+# ====================================
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+
+# ====================================
+# ARCHIVE FILES
+# ====================================
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# ====================================
+# TEMP FOLDERS
+# ====================================
+temp/
+tmp/
+cache/
+.cache/
+
+# ====================================
+# THEME/PLUGIN DEVELOPMENT ARTIFACTS
+# ====================================
+.phpunit.result.cache
+coverage/
