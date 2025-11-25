@@ -55,7 +55,7 @@ A Google Knowledge Panel displays key business information directly in search re
   "logo": "https://workcity.com/logo.png",
   "description": "Professional services in Lagos, Nigeria",
   "foundingDate": "2024",
-  "founder": { "name": "Tobi Apata" },
+  "founder": { "name": "Workcity" },
   "address": { "streetAddress": "Lagos, Nigeria", "addressLocality": "Lagos", "addressCountry": "NG" },
   "sameAs": ["Facebook", "Instagram", "LinkedIn", "Twitter"]
 }

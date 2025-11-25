@@ -62,7 +62,6 @@
     │   ├── reviews-schema.json
     │   └── SCHEMA-DOCUMENTATION.md
     ├── themes/
-    │   ├── astra/ (Parent theme)
     │   └── workcity/ (Child theme)
     │       ├── functions.php
     │       ├── style.css

@@ -9,7 +9,6 @@ wp-load.php
 wp-login.php
 wp-activate.php
 wp-mail.php
-index.php
 license.txt
 readme.html
 wp-config.php
