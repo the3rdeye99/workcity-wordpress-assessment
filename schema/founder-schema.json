@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tobi Apata",
+  "givenName": "Tobi",
+  "familyName": "Apata",
+  "jobTitle": "Founder & CEO",
+  "url": "https://apata-oluwatobi-portfolio.vercel.app",
+  "image": "https://workcity.com/founder.jpg",
+  "email": "tobi@workcity.com",
+  "telephone": "+234-XXX-XXX-XXXX",
+  "sameAs": [
+    "https://www.linkedin.com/in/tobi-apata",
+    "https://github.com/the3rdeye99",
+    "https://twitter.com/tobi_apata",
+    "https://www.instagram.com/tobi_apata"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Workcity"
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Workcity",
+      "url": "https://workcity.com"
+    }
+  ],
+  "description": "Founder and CEO of Workcity, a professional services company in Lagos, Nigeria. Expert in WordPress development, SEO optimization, and business technology solutions.",
+  "knows": [
+    "WordPress Development",
+    "SEO Optimization",
+    "Web Development",
+    "Business Management",
+    "Digital Marketing"
+  ]
+}

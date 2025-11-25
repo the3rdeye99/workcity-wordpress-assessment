@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Workcity",
+  "alternateName": "Workcity Professional Services Nigeria",
+  "url": "https://workcity.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://workcity.com/logo.png",
+    "width": 250,
+    "height": 60,
+    "name": "Workcity Logo"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://workcity.com/cover-image.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "description": "Workcity is a leading professional services company based in Lagos, Nigeria, providing comprehensive business and technology solutions for organizations.",
+  "foundingDate": "2024",
+  "foundingLocation": "Lagos, Nigeria",
+  "founder": {
+    "@type": "Person",
+    "name": "Tobi Apata",
+    "url": "https://apata-oluwatobi-portfolio.vercel.app"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Business Avenue, Victoria Island",
+    "addressLocality": "Lagos",
+    "addressRegion": "Lagos State",
+    "postalCode": "100001",
+    "addressCountry": "NG"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "+234-XXX-XXX-XXXX",
+    "email": "info@workcity.com"
+  },
+  "telephone": "+234-XXX-XXX-XXXX",
+  "email": "info@workcity.com",
+  "sameAs": [
+    "https://www.facebook.com/workcity",
+    "https://www.instagram.com/workcity",
+    "https://www.twitter.com/workcity",
+    "https://www.linkedin.com/company/workcity",
+    "https://www.youtube.com/channel/workcity",
+    "https://github.com/the3rdeye99"
+  ],
+  "knowsAbout": [
+    "Residential Cleaning",
+    "Commercial Cleaning",
+    "Deep Cleaning",
+    "Post-Construction Cleaning",
+    "Maintenance Cleaning"
+  ],
+  "areaServed": {
+    "@type": "State",
+    "name": "Lagos State, Nigeria"
+  },
+  "priceRange": "₦15,000 - ₦100,000"
+}

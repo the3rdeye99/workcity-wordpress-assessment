@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Professional Cleaning Services",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Workcity",
+    "url": "https://workcity.com"
+  },
+  "serviceType": "Cleaning Services",
+  "areaServed": {
+    "@type": "State",
+    "name": "Lagos State, Nigeria"
+  },
+  "hasOfferingDetails": [
+    {
+      "@type": "Offer",
+      "name": "Residential Cleaning",
+      "description": "Professional home cleaning services including deep cleaning, regular maintenance, and move-in/move-out cleaning.",
+      "price": "25000",
+      "priceCurrency": "NGN",
+      "availability": "InStock",
+      "availabilityStarts": "2024-11-25"
+    },
+    {
+      "@type": "Offer",
+      "name": "Commercial Cleaning",
+      "description": "Office and commercial space cleaning services customized for businesses in Lagos.",
+      "price": "50000",
+      "priceCurrency": "NGN",
+      "availability": "InStock",
+      "availabilityStarts": "2024-11-25"
+    },
+    {
+      "@type": "Offer",
+      "name": "Deep Cleaning Services",
+      "description": "Intensive cleaning services for thorough sanitization and disinfection.",
+      "price": "40000",
+      "priceCurrency": "NGN",
+      "availability": "InStock",
+      "availabilityStarts": "2024-11-25"
+    },
+    {
+      "@type": "Offer",
+      "name": "Post-Construction Cleaning",
+      "description": "Complete cleanup and debris removal after construction or renovation projects.",
+      "price": "75000",
+      "priceCurrency": "NGN",
+      "availability": "InStock",
+      "availabilityStarts": "2024-11-25"
+    },
+    {
+      "@type": "Offer",
+      "name": "Maintenance Cleaning",
+      "description": "Regular cleaning maintenance packages for homes and offices.",
+      "price": "15000",
+      "priceCurrency": "NGN",
+      "availability": "InStock",
+      "availabilityStarts": "2024-11-25"
+    }
+  ]
+}
